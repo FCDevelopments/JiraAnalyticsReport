@@ -1,0 +1,16 @@
+# Secrets & local config
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+analytics_tickets_data.json
+last_run_timestamp.txt
+*.xlsx
